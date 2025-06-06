@@ -1,0 +1,10 @@
+.App {
+  align-items: stretch;
+  background-color: #eaeaea;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5625rem;
+  justify-content: center;
+  padding: 10vh 5vw;
+  text-align: center;
+}
